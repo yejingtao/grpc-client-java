@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b598e89a-03b9-4f64-86b2-27aceb065040" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2TPa2ptD66Rwp5pzQHgqztLd7CD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/proto" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\BookClient\src\main\proto" />
+      <recent name="D:\workspace\BookClient\src\main\java\com\jingtao\library" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BookClientor">
+    <configuration name="BookClientor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jingtao.library.BookClientor" />
+      <module name="BookClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jingtao.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloClientor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jingtao.library.HelloClientor" />
+      <module name="BookClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jingtao.library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookClientor" />
+        <item itemvalue="Application.HelloClientor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b598e89a-03b9-4f64-86b2-27aceb065040" name="Default Changelist" comment="" />
+      <created>1690946964188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690946964188</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1690966968459">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1690966968459" />
+    <state width="1493" height="135" key="GridCell.Tab.0.bottom" timestamp="1690968744704">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1690968744704" />
+    <state width="1493" height="135" key="GridCell.Tab.0.center" timestamp="1690968744704">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1690968744704" />
+    <state width="1493" height="135" key="GridCell.Tab.0.left" timestamp="1690968744704">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1690968744704" />
+    <state width="1493" height="135" key="GridCell.Tab.0.right" timestamp="1690968744704">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1690968744704" />
+    <state x="270" y="50" key="SettingsEditor" timestamp="1690968816680">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="270" y="50" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1690968816680" />
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1691372058020">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1691372058020" />
+    <state x="425" y="185" width="672" height="677" key="run.anything.popup" timestamp="1690960341740">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" width="672" height="677" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1690960341740" />
+  </component>
+</project>
